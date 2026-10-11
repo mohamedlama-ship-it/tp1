@@ -1,9 +1,0 @@
-tools/
-*.zip
-*.log
-.idea/
-*.class
-__pycache__/
-*.pyc
-.env
-.env.*
